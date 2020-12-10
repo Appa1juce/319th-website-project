@@ -1,0 +1,63 @@
+body {
+    font-family: 'Caladea';
+    background-color: rgb(46, 43, 43);
+
+}
+
+main{
+    width: 50%;
+    margin: auto;
+}
+
+section {
+    margin-top: 10vh;
+}
+
+img {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 15%;
+}
+
+#main_header {
+  text-align: center;
+    margin-top: 2vh;
+}
+
+#grouppicture {
+height: 40%;
+width: 25%;
+position: absolute;
+left: 5px;
+}
+
+#grouppicture2 {
+    height: 40%;
+    width: 25%;
+    position: absolute;
+    right: 5px;
+    } 
+
+#mid_center_main {
+   display: flex;
+   justify-content: space-between;
+    
+  
+}
+
+button:hover {
+    background-color: black;
+    color: blue;
+}
+
+#page2_main{
+    text-align: center;
+    margin-top: 2vh;
+}
+
+#page2_button {
+    position: absolute;
+    left: 5px;
+}
+
